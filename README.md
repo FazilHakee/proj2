@@ -1,2 +1,2 @@
-# proj2
-Food Delivery Application
+# FoodDeliveyApp
+This is a Official Repository of MadLab
